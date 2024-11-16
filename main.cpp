@@ -1,6 +1,6 @@
 #include <iostream>
 #include "suma.h"
 
-void main(){
+int main(){
     return 0;
 }
