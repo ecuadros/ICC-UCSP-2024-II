@@ -16,6 +16,7 @@ int multiplicacion(int a, int b){
     return a * b;
 }
 
+// Comentario de Ernesto
 int potencia(int a, int b){
     return 0;
 }
