@@ -15,3 +15,7 @@ int division(int a, int b){
 int multiplicacion(int a, int b){
     return a * b;
 }
+
+int potencia(int a, int b){
+    return 0;
+}
